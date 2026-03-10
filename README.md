@@ -1,8 +1,8 @@
  # 👩🏻‍💻 Sebastião B. Luvumbo
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
-Meu nome é Sebastião Biniaku Luvumbo, sou Desenvolvedor Fullstack com mais de 3 anos de experiência. Busco aplicar minhas habilidades técnicas para criar soluções inovadoras e escaláveis, contribuindo para o crescimento da empresa. Com forte foco em eficiência e qualidade, meu objetivo é agregar valor à equipe, implementando processos otimizados e entregando resultados que atendam às necessidades do negócio.
+Desenvolvedor Full Stack com +4 anos de experiência, focado em soluções escaláveis, alto desempenho e boas práticas como Clean Architecture. Comprometido com qualidade e geração de valor.
 
 ---
 
